@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwoWayDataBinding</string>
+    <string name="upper">Upper</string>
+    <string name="under">Under</string>
+</resources>
